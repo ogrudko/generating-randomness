@@ -1,0 +1,59 @@
+hyperskill_project:
+  id: 156
+  ide_files: https://stepik.org/media/attachments/lesson/475510/additional_files.json
+  is_template_based: false
+  use_ide: true
+update_date: Wed, 19 May 2021 10:26:50 UTC
+stages:
+- id: 813
+  step: 12095
+  is_completed: true
+- id: 814
+  step: 12096
+  is_completed: true
+- id: 815
+  step: 12097
+  is_completed: true
+- id: 816
+  step: 12098
+  is_completed: true
+topics:
+  1:
+  - title: Invoking a function
+    theory_id: 5891
+  - title: Declaring a function
+    theory_id: 5900
+  - title: Arguments
+    theory_id: 7248
+  - title: Dictionary
+    theory_id: 6481
+  - title: Basic string methods
+    theory_id: 6842
+  - title: Dictionary methods
+    theory_id: 9008
+  2:
+  - title: Load module
+    theory_id: 6019
+  - title: Random module
+    theory_id: 6263
+  3:
+  - title: Introduction to matrices
+    theory_id: 7112
+  - title: Introduction to operating systems
+    theory_id: 9704
+  - title: Intro to NumPy
+    theory_id: 9672
+  - title: Data types in NumPy
+    theory_id: 10095
+  - title: Create module
+    theory_id: 6057
+  - title: Packages
+    theory_id: 6384
+  - title: Command line overview
+    theory_id: 8977
+  - title: Parameters and options
+    theory_id: 9746
+  - title: Pip
+    theory_id: 6230
+  - title: Type casting
+    theory_id: 6224
